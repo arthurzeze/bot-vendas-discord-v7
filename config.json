@@ -1,15 +1,15 @@
 {
-    "TOKEN": "", 
+    "TOKEN": "MTA4NzE0MzUzMzY5OTQwNzk1Mg.GFGfEC.Oq4vobnfEJv2_WCw43XHXbHSvSP0N4ICSCYJM8", 
     "prefix": ".", 
-    "access_token": "",
+    "access_token": "APP_USR-1984874363234139-122913-4587c4b1b9221eddb58d14be33c68087-521157813",
     "nomebot": "TIRADENTES PAYMENTS", 
-    "canalvoz": "1080289687274537011", 
+    "canalvoz": "1087150025819291748", 
     "cor": "#000FF",
     "botao": "SECONDARY", 
     "canallogs": "1080289709881827348", 
-    "catecarrinho": "1080289691699531916", 
+    "catecarrinho": "1080289695839309845", 
     "cargovip": "1072999811185385532", 
-    "fotoembed": "", 
-    "emojic": "🌏",
-    "idcargo": "1072999811185385532"
+    "fotoembed": "https://media.discordapp.net/attachments/1087151748080214026/1089708042767056967/055D9236-13FE-4DAA-A4F2-0B0BD8DD3036.png?width=1020&height=230", 
+    "emojic": ":rocket: ",
+    "idcargo": "1072999446801043578"
 }

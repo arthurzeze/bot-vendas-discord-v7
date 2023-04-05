@@ -151,7 +151,7 @@ client.on("interactionCreate", (interaction) => {
                     new Discord.MessageButton()
                         .setCustomId(interaction.customId)
                         .setLabel('Comprar')
-                       .setEmoji('<:STORE:1012138965580644494>')
+                       .setEmoji(':carrinho~6: ')
                         .setStyle('SUCCESS'),
                 );
             const embed = new Discord.MessageEmbed()
@@ -218,7 +218,7 @@ if ((interaction.guild.channels.cache.find(c => c.name.toLowerCase() === canal))
                    new Discord.MessageButton()
                        .setCustomId('pix')
                        .setLabel("Continuar")
-                       .setEmoji('<:continuar:1048375786819813486>')
+                       .setEmoji('<:mais:1080164139021897878>')
                        .setStyle("PRIMARY"),
                )
                 .addComponents(
@@ -226,13 +226,13 @@ if ((interaction.guild.channels.cache.find(c => c.name.toLowerCase() === canal))
                         .setCustomId('cancelar')
                         .setLabel("Cancelar")
                         .setStyle("DANGER")
-                        .setEmoji('<:emoji_52:1041744057023594536>'),
+                        .setEmoji('<:cancelar:1088935638553854043>'),
                 )
                 .addComponents(
                    new Discord.MessageButton()
                        .setCustomId('dm')
                        .setLabel("Testar DM")
-                       .setEmoji('<:continuar:1041566049214136340>')
+                       .setEmoji('<:mais:1080164139021897878>')
                        .setStyle("SUCCESS"),
                );
                 const embed2 = new Discord.MessageEmbed()
